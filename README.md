@@ -14,7 +14,7 @@ A simple expense tracker built using Python.
 ## How to Run
 1. Clone the repository
 2. Run the Python file:
-   python-expense-tracker.py
+   python expense_tracker.py
 
 ## Author
 Iiesh Phoughat 
